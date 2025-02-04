@@ -1,7 +1,7 @@
 # PlanetEagler Roadmap
 
 ## Bare setup
-- [ ] Static Site homepage
+- [x] Static Site homepage
 - [ ] Backend setup
   - Websocket server, connect from static site
   - Send data one way or another through websocket
