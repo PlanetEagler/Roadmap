@@ -7,3 +7,10 @@
   - Send data one way or another through websocket
   - Setup a github app to automatically send to repo, or just find somewhere to store it.
 - [ ] Some kind of verification
+
+## React version setup
+- [x] Main Page
+- [ ] Dashboard
+- [ ] Log in or sign up
+- [ ] Uploading
+- [ ] database of some sort
