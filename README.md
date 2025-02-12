@@ -1,16 +1,8 @@
 # PlanetEagler Roadmap
 
-## Bare setup
-- [x] Static Site homepage
-- [ ] Backend setup
-  - Websocket server, connect from static site
-  - Send data one way or another through websocket
-  - Setup a github app to automatically send to repo, or just find somewhere to store it.
-- [ ] Some kind of verification
-
-## React version setup
+## v0.1 proggress
 - [x] Main Page
 - [ ] Dashboard
-- [ ] Log in or sign up
-- [ ] Uploading
-- [ ] database of some sort
+- [ ] Log in or sign up (working on this currently)
+- [x] Uploading api
+- [x] database of some sort
