@@ -1,9 +1,12 @@
 # PlanetEagler Roadmap
 
+## v0.2 progress
+- [ ] Make the database safer and add more stuff to backend to keep it safe.
+- [ ] Github sign in
+- [ ] comments ( and rating feature )
+- [ ] mod editing
+- [ ] Profile pictures
+
+
 ## v0.1 progress
-- [x] Main Page
-- [X] Dashboard
-- [ ] Admin panel ( to make sure no one uploads bad mods ) (working on this currently)
-- [X] Log in or sign up
-- [x] Uploading api
-- [x] database of some sort
+- [x] Completed.
