@@ -2,7 +2,7 @@
 
 ## v0.2 progress
 - [ ] Make the database safer and add more stuff to backend to keep it safe. ( currently top of the list )
-- [ ] Github sign in
+- [X] Github sign in
 - [ ] comments ( and rating feature )
 - [ ] mod editing
 - [ ] Profile pictures
